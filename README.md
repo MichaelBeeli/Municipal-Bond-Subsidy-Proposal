@@ -5,3 +5,5 @@ benefit of a tax subsidy depends on the systemic share of default risk --- a dir
 determinant of subnational borrowing costs and infrastructure finance capacity;
 proposed identification by regression discontinuity on Municipal Liquidity Facility
 eligibility using MSRB transaction data and CDS-implied default premia.
+
+If PDF file not displaying, please download to read.
